@@ -2,9 +2,11 @@
 
 /* Controllers */
 
+function AboutCtrl() {}
+AboutCtrl.$inject = [];
 
-function MyCtrl1() {}
-MyCtrl1.$inject = [];
+function MainCtrl() {}
+MainCtrl.$inject = [];
 
 
 function MyCtrl2() {
